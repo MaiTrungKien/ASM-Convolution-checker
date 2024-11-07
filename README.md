@@ -9,11 +9,7 @@ python Carch_accuracy.py
 ```
 ### Dependencies
 Java (well, you are using Mars right?)
-Python3
-Python packages:
-numpy
-os
-random
+Python3 along with these Python packages: numpy, os, random.
 ```bash
 pip install numpy
 ```
