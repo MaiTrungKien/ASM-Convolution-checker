@@ -1,4 +1,4 @@
-#Computer Architechture assignment test
+# Computer Architechture assignment test
 
 Why not? I spend 15 minutes making this and it helped me recognize numerous bugs in my code so this will be useful to someone else.
 
